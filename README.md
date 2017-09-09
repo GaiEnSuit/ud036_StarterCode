@@ -1,3 +1,3 @@
-Back end code written for the fresh_tomatoes.py
+Running entertainment_center.py updates the list with movies data.
 
-Run entertanment_center.py as it contains the method to create the html file.
+Open the newley updated fresh_tomatoes.html in browser!
