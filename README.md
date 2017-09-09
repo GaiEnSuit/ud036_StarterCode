@@ -1,1 +1,8 @@
-Running entertainment_center.py updates the list with movies data and opens it in the browser!
+REQUIREMENTS
+################################################################################
+Any version of python
+
+HOW TO USE
+################################################################################
+Step 1: Run entertainment_center.py
+Step 2: If the broswer doesn't open automatically, open the newly created html in your browser
