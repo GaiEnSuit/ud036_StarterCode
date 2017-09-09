@@ -3,6 +3,7 @@ import fresh_tomatoes
 
 moviesList = []
 
+#data for movies
 movie1 = media.Movie(
     "Perfect Blue",
     "https://www.youtube.com/watch?v=cwGMDibs_KY",
@@ -13,6 +14,7 @@ movie2 = media.Movie(
     "https://www.youtube.com/watch?v=XibzC-e_s5M",
     "http://thumbs1.ebaystatic.com/d/l225/m/mAcgK6wxgKcw1bJ3pGIc6EQ.jpg")
 
+#adding each movie to the list
 moviesList.append(movie1)
 moviesList.append(movie2)
 
